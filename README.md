@@ -1,0 +1,1 @@
+Juego Ahorcado con vidas visuales que cada vez que haya algun error va restando y cuando o haya mas vidas pierde y vuelve a comenzar el menu, cuenta con una palabra al azar que hay en un archivo txt o se puede poner una palabra personalizada, tambien va mostrando las letras que van quedando disponibles.
